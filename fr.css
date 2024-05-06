@@ -1,0 +1,83 @@
+*{
+    padding: 0%; 
+     margin: 0%; 
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+    background-color:blanchedalmond;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+text-align: center;
+margin-top: 4cm;
+ border-radius: 75%; 
+background-color: lightseagreen;
+display: column;
+width: 50%;
+margin: auto;
+ 
+    }
+    
+    .search{
+      display: flex;
+    justify-content: center;
+    gap: 0.5cm;
+padding-top: 1cm;
+    }
+    .search input{
+         border-radius: 20px;
+        width: 200px;
+        height:40px;
+        font-size: 20px;
+        background-color: beige;
+        padding-left: 0.5cm;
+    outline: 0;
+    }
+    .search button {
+border-radius: 10px;
+cursor: pointer;
+    }
+ .ssd{
+    padding-top: 0.5cm;
+    padding-left: 0.5cm;
+    font-style: italic;
+    font-size: large;
+   
+ }
+ .temperature{
+    display: flex;
+    justify-content: center;
+    gap: 2cm;
+    margin-top: 1cm;
+ }
+ .sss img{
+     border-radius: 10%;
+ }
+    .details img{
+        width: 150px;
+       
+    }
+    .details {
+        font-size: 25px;
+        font-style: italic;
+        padding-bottom: 3cm;
+    }
+ 
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
